@@ -73,3 +73,4 @@ This document outlines a series of programming workshops designed to build a com
 
 **Repository**:
 - Repo for task: https://github.com/mikelopster/kbtg-be-go-lab
+- MCP install in vs code: https://code.visualstudio.com/docs/copilot/customization/mcp-servers
